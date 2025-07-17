@@ -1,0 +1,6 @@
+mkdir mi-proyecto2
+cd mi-proyecto2
+git init
+echo "# Mi Proyecto2" > README.md
+git add .
+git commit -m "Primer commit: agrega README y estructura base"
